@@ -335,7 +335,7 @@
 		},
 		"mgcv" : {
 			"Package" : "mgcv",
-			"Version" : "1.8-38",
+			"Version" : "1.8-39",
 			"Source" : "Repository",
 			"Repository" : "CRAN"
 		},
